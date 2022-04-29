@@ -18,10 +18,7 @@ function App() {
           Learn React
         </a>
       </header>
-      <div>fsesfsefse</div>
-      <div>fsesfsefse</div>
-      <div>fsesfsefse</div>
-      <div>fsesfsefse</div>
+      <div>alallalalala</div>
     </div>
   );
 }
